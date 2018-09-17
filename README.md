@@ -2,11 +2,11 @@
 React shopping cart
 
 #### Using
-- React
-- React-Redux
+- React + Redux
+- Redux-Thunk
 - Express CORS Middleware
 - Nodemon
 - Axios
 - Native local storage
 - SASS
-
+- Firebase
